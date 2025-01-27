@@ -11,5 +11,7 @@ The **Weather Dashboard** is a fully responsive application built with **React**
 
 ## Technologies Used
 **.React:** For building the user interface.
+
 **.CSS:** For styling the components and ensuring responsiveness.
+
 **.OpenWeatherMap API:** To fetch real-time weather data.
