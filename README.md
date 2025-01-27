@@ -1,4 +1,4 @@
-Weather Dashboard
+# Weather Dashboard
 
 Overview
 The Weather Dashboard is a fully responsive application built with React and styled with CSS. It provides users with real-time weather data, including temperature, wind speed, and humidity, for a specific city searched by the user. The app aims to deliver an intuitive and user-friendly experience, making it easy to obtain and visualize weather information.
